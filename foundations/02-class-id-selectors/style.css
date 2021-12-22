@@ -1,0 +1,20 @@
+.para{
+    background: rgb(255, 178, 208);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+#id-one{
+    color: #0000ff;
+    font-size: 36px;
+}
+
+.para.third{
+    font-size: 24px;
+}
+
+#id-two{
+    background: hsl(120, 73%, 75%);
+    font-size: 24px;
+    font-weight: 700;
+}
